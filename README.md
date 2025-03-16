@@ -25,33 +25,32 @@ I'm a full stack developer from The United States highly focued on blockchain te
 
 ### 🛠 &nbsp;Languages and Tools
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ethereum/ethereum-original.svg" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/solana/solana-original.svg" title="Solana" alt="Solana" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/farcaster/farcaster-original.svg" title="Farcaster" alt="Farcaster" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ipfs/ipfs-original.svg" title="IPFS" alt="IPFS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chainlink/chainlink-original.svg" title="Chainlink" alt="Chainlink" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uniswap/uniswap-original.svg" title="Uniswap" alt="Uniswap" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dune/dune-original.svg" title="Dune Analytics" alt="Dune Analytics" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-</p>
-
----
-
-### 🔥 &nbsp; My Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyJonBray&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyJonBray&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+<tr>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" alt="Solidity" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Ethereum-627EEA?logo=ethereum&logoColor=white" alt="Ethereum" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white" alt="Solana" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" width="120%" height="28"/></td>
+</tr>
+<tr>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Farcaster-855DCD?logo=farcaster&logoColor=white" alt="Farcaster" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-IPFS-65C2CB?logo=ipfs&logoColor=white" alt="IPFS" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" width="120%" height="28"/></td>
+</tr>
+<tr>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Chainlink-375BD2?logo=chainlink&logoColor=white" alt="Chainlink" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Uniswap-FF007A?logo=ethereum&logoColor=white" alt="Uniswap" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-Dune-FF6B00?logo=ethereum&logoColor=white" alt="Dune Analytics" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-web-services&logoColor=white" alt="AWS" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL" width="120%" height="28"/></td>
+<td width="16.66%"></td>
+</tr>
+</table>
 
 ---
 
@@ -71,8 +70,8 @@ I publish exclusively on Paragraph, a decentralized publishing platform built on
 ### 🫙 Tip Jar
 
 <p align="left">
-<a href="https://rainbow.me/0x3b138FC7eC06B2A44565994CfDe5134A75915995"><img src="https://img.shields.io/badge/ETH-0x7e2F9dd040cF7B41a1AF9e4A24A0EDB04093dDa1-3C3C3D.svg?logo=ethereum" alt="ETH address"></a>
-<a href="https://blockchair.com/bitcoin/address/bc1qtaqfrcgln2tpkvlws8gdcwvu5g5cg0wkszg2ru"><img src="https://img.shields.io/badge/BTC-bc1qtaqfrcgln2tpkvlws8gdcwvu5g5cg0wkszg2ru-F7931A.svg?logo=bitcoin" alt="BTC address"></a>
-<a href="https://monerohash.com/explorer/search?value=84WTHL1Uj94EaE4exvrcbBNgS9xj1kSDP4ThK5kr2ScvEDnGK2EiPLVAo8UhofZD2YiqnoQDd5YwVcGWJLUpLPQE4hw2g2X"><img src="https://img.shields.io/badge/XMR-84WTHL1Uj94EaE4exvrcbBNgS9xj1kSDP4ThK5kr2ScvEDnGK2EiPLVAo8UhofZD2YiqnoQDd5YwVcGWJLUpLPQE4hw2g2X-FF6600.svg?logo=monero" alt="XMR address"></a>
+<a href="https://rainbow.me/0x3b138FC7eC06B2A44565994CfDe5134A75915995"><img src="https://img.shields.io/badge/ETH-0x7e2F9dd040cF7B41a1AF9e4A24A0EDB04093dDa1-3C3C3D.svg?logo=ethereum" alt="ETH address"></a><br>
+<a href="https://blockchair.com/bitcoin/address/bc1qtaqfrcgln2tpkvlws8gdcwvu5g5cg0wkszg2ru"><img src="https://img.shields.io/badge/BTC-bc1qtaqfrcgln2tpkvlws8gdcwvu5g5cg0wkszg2ru-F7931A.svg?logo=bitcoin" alt="BTC address"></a><br>
+<a href="https://monerohash.com/explorer/search?value=84WTHL1Uj94EaE4exvrcbBNgS9xj1kSDP4ThK5kr2ScvEDnGK2EiPLVAo8UhofZD2YiqnoQDd5YwVcGWJLUpLPQE4hw2g2X"><img src="https://img.shields.io/badge/XMR-84WTHL1Uj94EaE4exvrcbBNgS9xj1kSDP4ThK5kr2ScvEDnGK2EiPLVAo8UhofZD2YiqnoQDd5YwVcGWJLUpLPQE4hw2g2X-FF6600.svg?logo=monero" alt="XMR address"></a><br>
 <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=CTxPz8M78gbcGTVW4toMACjahvoPYfnSGURhmfj1A1HR"><img src="https://img.shields.io/badge/SOL-CTxPz8M78gbcGTVW4toMACjahvoPYfnSGURhmfj1A1HR-9945FF.svg?logo=solana" alt="SOL address"></a>
 </p>
