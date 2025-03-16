@@ -25,7 +25,7 @@ I'm a full stack developer from The United States highly focued on blockchain te
 
 ### 🛠 &nbsp;Languages and Tools
 
-<table>
+<table style="border: none;">
 <tr>
 <td width="16.66%"><img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" width="120%" height="28"/></td>
 <td width="16.66%"><img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" width="120%" height="28"/></td>
@@ -43,7 +43,7 @@ I'm a full stack developer from The United States highly focued on blockchain te
 <td width="16.66%"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" width="120%" height="28"/></td>
 </tr>
 <tr>
-<td width="16.66%"><img src="https://img.shields.io/badge/-Chainlink-375BD2?logo=chainlink&logoColor=white" alt="Chainlink" width="120%" height="28"/></td>
+<td width="16.66%"><img src="https://img.shields.io/badge/-CCIP-375BD2?logo=chainlink&logoColor=white" alt="Chainlink CCIP" width="120%" height="28"/></td>
 <td width="16.66%"><img src="https://img.shields.io/badge/-Uniswap-FF007A?logo=ethereum&logoColor=white" alt="Uniswap" width="120%" height="28"/></td>
 <td width="16.66%"><img src="https://img.shields.io/badge/-Dune-FF6B00?logo=ethereum&logoColor=white" alt="Dune Analytics" width="120%" height="28"/></td>
 <td width="16.66%"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-web-services&logoColor=white" alt="AWS" width="120%" height="28"/></td>
