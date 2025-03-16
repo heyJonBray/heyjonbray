@@ -6,6 +6,8 @@
 
 ### jon bray is onchain
 
+<a href="https://rainbow.me/0x3b138FC7eC06B2A44565994CfDe5134A75915995"><img src="https://img.shields.io/badge/jon.bray.eth-3C3C3D.svg?logo=ethereum" alt="ETH address"></a><br>
+
 I'm a full stack developer from The United States highly focued on blockchain technology and decentralization. Prior to my career as a software engineer, I worked in surgical pathology where a coworker introduced me to Bitcoin in 2014. The rest is history.
 
 - 🏡 I'm a father, husband, and amateur homesteader.
