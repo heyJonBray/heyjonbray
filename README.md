@@ -1,7 +1,6 @@
 <p align="center"><img src="assets/rorschach-banner.png" width="600" alt="Rorschach Banner"></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=heyjonbray&style=flat-square&color=blue" alt=""> &nbsp; &nbsp; <img src="https://img.shields.io/github/stars/heyJonBray
-" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=heyjonbray&style=flat-square&color=blue" alt=""> &nbsp; &nbsp; <img src="https://img.shields.io/github/stars/heyJonBray" alt=""></p>
 <p align="center"></p>
 
 ### jon bray is onchain
