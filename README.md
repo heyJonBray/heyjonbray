@@ -12,7 +12,7 @@ I'm a full stack developer from The United States highly focued on blockchain te
 
 - 🏡 I'm a father, husband, and amateur homesteader.
 - 🧑‍💻 I work at [Lazer Technologies](https://www.lazertechnologies.com/) as a Senior Software Engineer for their crypto team.
-- 🪙 Building novel DeFi tools at [Asylum Labs](https://github.com/asylum-labs)
+- 📈 I'm building a suite of DeFi tools at [Asylum Labs](https://github.com/asylum-labs)
 - 🌱 When I'm not coding, I'm gardening, landscaping or making art.
 
 <p align="center" style="margin-top: 20px;">
