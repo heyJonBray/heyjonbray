@@ -67,7 +67,7 @@ I'm a full stack developer from The United States highly focued on blockchain te
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjonbray&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjonbray&include_orgs=true&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 ---
