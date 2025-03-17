@@ -50,8 +50,8 @@ I'm a full stack developer from The United States highly focued on blockchain te
 <td width="14.28%"><a href="https://ethereum.org/"><img src="https://img.shields.io/badge/-Ethereum-627EEA?logo=ethereum&logoColor=white" alt="Ethereum"></a></td>
 <td width="14.28%"><img src="https://img.shields.io/badge/-DeFi-FF007A?logo=ethereum&logoColor=white" alt="DeFi"></td>
 <td width="14.28%"><a href="https://chain.link/ccip"><img src="https://img.shields.io/badge/-CCIP-375BD2?logo=chainlink&logoColor=white" alt="Chainlink CCIP"></a></td>
-<td width="14.28%"><a href="https://dune.com/"><img src="https://img.shields.io/badge/-Dune-FF6B00?logo=ethereum&logoColor=white" alt="Dune Analytics"></a></td>
-<td width="14.28%"><a href="https://thegraph.com/"><img src="https://img.shields.io/badge/-TheGraph-0052CC?logo=graphql&logoColor=white" alt="The Graph"></a></td>
+<td width="14.28%"><a href="https://dune.com/"><img src="https://img.shields.io/badge/-Dune-F4603E?logo=ethereum&logoColor=white" alt="Dune Analytics"></a></td>
+<td width="14.28%"><a href="https://thegraph.com/"><img src="https://img.shields.io/badge/-TheGraph-6F4CFF?logo=graphql&logoColor=white" alt="The Graph"></a></td>
 <td width="14.28%"><a href="https://solana.com/"><img src="https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white" alt="Solana"></a></td>
 <td width="14.28%"></td>
 </tr>
