@@ -41,11 +41,11 @@ I'm a full stack developer from The United States highly focued on blockchain te
 <tr>
 <td width="14.28%"><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"></a></td>
 <td width="14.28%"><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"></a></td>
+<td width="14.28%"><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"></a></td>
+<td width="14.28%"><a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a></td>
 <td width="14.28%"><a href="https://thirdweb.com/"><img src="https://img.shields.io/badge/-Thirdweb-000000?logo=thirdweb&logoColor=white" alt="Thirdweb"></a></td>
 <td width="14.28%"><a href="https://www.openzeppelin.com/"><img src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=white" alt="OpenZeppelin"></a></td>
 <td width="14.28%"><a href="https://web3js.org/"><img src="https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white" alt="Web3.js"></a></td>
-<td width="14.28%"></td>
-<td width="14.28%"></td>
 </tr>
 <tr>
 <td width="14.28%"><a href="https://ethereum.org/"><img src="https://img.shields.io/badge/-Ethereum-627EEA?logo=ethereum&logoColor=white" alt="Ethereum"></a></td>
