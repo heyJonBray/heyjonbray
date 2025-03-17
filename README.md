@@ -88,8 +88,8 @@ I publish exclusively on Paragraph, a decentralized publishing platform built on
 ### 🫙 Tip Jar
 
 <p align="left">
-<a href="https://rainbow.me/0x3b138FC7eC06B2A44565994CfDe5134A75915995"><img src="https://img.shields.io/badge/ETH-0x7e2F9dd040cF7B41a1AF9e4A24A0EDB04093dDa1-3C3C3D.svg?logo=ethereum" alt="ETH address"></a><br>
-<a onclick="navigator.clipboard.writeText('bc1qtaqfrcgln2tpkvlws8gdcwvu5g5cg0wkszg2ru')" style="cursor: pointer;"><img src="https://img.shields.io/badge/BTC-bc1qtaqfrcgln2tpkvlws8gdcwvu5g5cg0wkszg2ru-F7931A.svg?logo=bitcoin" alt="BTC address"></a><br>
-<a onclick="navigator.clipboard.writeText('84WTHL1Uj94EaE4exvrcbBNgS9xj1kSDP4ThK5kr2ScvEDnGK2EiPLVAo8UhofZD2YiqnoQDd5YwVcGWJLUpLPQE4hw2g2X')" style="cursor: pointer;"><img src="https://img.shields.io/badge/XMR-84WTHL1Uj94EaE4exvrcbBNgS9xj1kSDP4ThK5kr2ScvEDnGK2EiPLVAo8UhofZD2YiqnoQDd5YwVcGWJLUpLPQE4hw2g2X-FF6600.svg?logo=monero" alt="XMR address"></a><br>
-<a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=CTxPz8M78gbcGTVW4toMACjahvoPYfnSGURhmfj1A1HR"><img src="https://img.shields.io/badge/SOL-CTxPz8M78gbcGTVW4toMACjahvoPYfnSGURhmfj1A1HR-9945FF.svg?logo=solana" alt="SOL address"></a>
+<a href="assets/ethereum-address.svg"><img src="https://img.shields.io/badge/ETH-0x7e2F9dd040cF7B41a1AF9e4A24A0EDB04093dDa1-3C3C3D.svg?logo=ethereum" alt="ETH address"></a><br>
+<a href="assets/btc-address.svg"><img src="https://img.shields.io/badge/BTC-bc1qtaqfrcgln2tpkvlws8gdcwvu5g5cg0wkszg2ru-F7931A.svg?logo=bitcoin" alt="BTC address"></a><br>
+<a href="assets/monero-address.svg"><img src="https://img.shields.io/badge/XMR-84WTHL1Uj94EaE4exvrcbBNgS9xj1kSDP4ThK5kr2ScvEDnGK2EiPLVAo8UhofZD2YiqnoQDd5YwVcGWJLUpLPQE4hw2g2X-FF6600.svg?logo=monero" alt="XMR address"></a><br>
+<a href="assets/solana-address.svg"><img src="https://img.shields.io/badge/SOL-CTxPz8M78gbcGTVW4toMACjahvoPYfnSGURhmfj1A1HR-9945FF.svg?logo=solana" alt="SOL address"></a>
 </p>
