@@ -13,7 +13,7 @@ I'm a full stack developer from The United States highly focued on blockchain te
 - 🏡 I'm a father, husband, and amateur homesteader.
 - 🧑‍💻 I work at [Lazer Technologies](https://www.lazertechnologies.com/) as a Senior Software Engineer for their crypto team.
 - 🪙 Building novel DeFi tools at [Asylum Labs](https://github.com/asylum-labs)
-- 🌱 When I'm not coding, I'm gardening, landscaping or building things around my home.
+- 🌱 When I'm not coding, I'm gardening, landscaping or making art.
 
 <p align="center" style="margin-top: 20px;">
 <a href="https://warpcast.com/jonbray.eth"><img src="https://img.shields.io/badge/@jonbray.eth-FFFFFF.svg?logo=farcaster" alt="Farcaster"></a>
@@ -21,47 +21,47 @@ I'm a full stack developer from The United States highly focued on blockchain te
 <a href="https://www.linkedin.com/in/heyjonbray"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/heyjonbray?style=blue)
+<a href="https://keybase.io/heyjonbray"><img src="https://img.shields.io/keybase/pgp/heyjonbray?style=blue" alt="Keybase PGP"></a>
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
+### 🛠 &nbsp;Proficiencies
 
 <table style="border: none;">
 <tr>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" alt="Solidity"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white" alt="Java"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Move-4DA2FF?logo=sui&logoColor=white" alt="Move"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET"></td>
+<td width="14.28%"><a href="https://soliditylang.org/"><img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" alt="Solidity"></a></td>
+<td width="14.28%"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"></a></td>
+<td width="14.28%"><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"></a></td>
+<td width="14.28%"><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust"></a></td>
+<td width="14.28%"><a href="https://www.java.com/"><img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white" alt="Java"></a></td>
+<td width="14.28%"><a href="https://docs.sui.io/move"><img src="https://img.shields.io/badge/-Move-4DA2FF?logo=sui&logoColor=white" alt="Move"></a></td>
+<td width="14.28%"><a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET"></a></td>
 </tr>
 <tr>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Thirdweb-000000?logo=thirdweb&logoColor=white" alt="Thirdweb"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=white" alt="OpenZeppelin"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white" alt="Web3.js"></td>
+<td width="14.28%"><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"></a></td>
+<td width="14.28%"><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"></a></td>
+<td width="14.28%"><a href="https://thirdweb.com/"><img src="https://img.shields.io/badge/-Thirdweb-000000?logo=thirdweb&logoColor=white" alt="Thirdweb"></a></td>
+<td width="14.28%"><a href="https://www.openzeppelin.com/"><img src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=white" alt="OpenZeppelin"></a></td>
+<td width="14.28%"><a href="https://web3js.org/"><img src="https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white" alt="Web3.js"></a></td>
 <td width="14.28%"></td>
 <td width="14.28%"></td>
 </tr>
 <tr>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Ethereum-627EEA?logo=ethereum&logoColor=white" alt="Ethereum"></td>
+<td width="14.28%"><a href="https://ethereum.org/"><img src="https://img.shields.io/badge/-Ethereum-627EEA?logo=ethereum&logoColor=white" alt="Ethereum"></a></td>
 <td width="14.28%"><img src="https://img.shields.io/badge/-DeFi-FF007A?logo=ethereum&logoColor=white" alt="DeFi"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-CCIP-375BD2?logo=chainlink&logoColor=white" alt="Chainlink CCIP"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Dune-FF6B00?logo=ethereum&logoColor=white" alt="Dune Analytics"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-TheGraph-0052CC?logo=graphql&logoColor=white" alt="The Graph"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white" alt="Solana"></td>
+<td width="14.28%"><a href="https://chain.link/ccip"><img src="https://img.shields.io/badge/-CCIP-375BD2?logo=chainlink&logoColor=white" alt="Chainlink CCIP"></a></td>
+<td width="14.28%"><a href="https://dune.com/"><img src="https://img.shields.io/badge/-Dune-FF6B00?logo=ethereum&logoColor=white" alt="Dune Analytics"></a></td>
+<td width="14.28%"><a href="https://thegraph.com/"><img src="https://img.shields.io/badge/-TheGraph-0052CC?logo=graphql&logoColor=white" alt="The Graph"></a></td>
+<td width="14.28%"><a href="https://solana.com/"><img src="https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white" alt="Solana"></a></td>
 <td width="14.28%"></td>
 </tr>
 <tr>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-web-services&logoColor=white" alt="AWS"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
+<td width="14.28%"><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"></a></td>
+<td width="14.28%"><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-web-services&logoColor=white" alt="AWS"></a></td>
+<td width="14.28%"><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"></a></td>
+<td width="14.28%"><a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"></a></td>
+<td width="14.28%"><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"></a></td>
+<td width="14.28%"><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"></a></td>
 <td width="14.28%"></td>
 </tr>
 </table>
