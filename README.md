@@ -63,7 +63,7 @@ I'm a full stack developer from The United States highly focued on blockchain te
 <td width="14.28%"><a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"></a></td>
 <td width="14.28%"><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"></a></td>
 <td width="14.28%"><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"></a></td>
-<td width="14.28%"></td>
+<td width="14.28%"><a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase"></a></td>
 </tr>
 </table>
 
