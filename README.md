@@ -10,10 +10,11 @@
 
 I'm a full stack developer from The United States highly focued on blockchain technology and decentralization. Prior to my career as a software engineer, I worked in surgical pathology where a coworker introduced me to Bitcoin in 2014. The rest is history.
 
-- 🏡 I'm a father, husband, and amateur homesteader.
-- 🧑‍💻 I work at [Lazer Technologies](https://www.lazertechnologies.com/) as a Senior Software Engineer for their crypto team.
-- 📈 I'm building a suite of DeFi tools at [Asylum Labs](https://github.com/asylum-labs)
-- 🌱 When I'm not coding, I'm gardening, landscaping or making art.
+- 🏡 I'm a father, husband, and amateur homesteader
+- 🧑‍💻 I work at [Lazer Technologies](https://www.lazertechnologies.com/) as a Senior Software Engineer for their crypto team
+- 📈 I'm building [Asylum Labs](https://github.com/asylum-labs), a suite of DeFi tools for unlocking liquidity and managing risk
+- 🌱 When I'm not coding, I'm gardening, landscaping or making art
+- 🎨 Speaking of art, check out my stuff on [Zora](https://zora.co/@jonbray)
 
 <p align="center" style="margin-top: 20px;">
 <a href="https://warpcast.com/jonbray.eth"><img src="https://img.shields.io/badge/@jonbray.eth-FFFFFF.svg?logo=farcaster" alt="Farcaster"></a>
