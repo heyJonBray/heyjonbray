@@ -28,6 +28,7 @@ I'm a full stack developer from The United States focued on blockchain technolog
 
 ### 🛠 &nbsp;Skills
 
+<div>
 <!-- Programming Languages Row -->
 <div align="center" style="padding-bottom: 20px;">
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" /></a>&nbsp;&nbsp;
@@ -87,6 +88,7 @@ I'm a full stack developer from The United States focued on blockchain technolog
 <p align="center" style="padding-top: 25px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjonbray&include_orgs=true&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
+</div>
 
 ---
 
