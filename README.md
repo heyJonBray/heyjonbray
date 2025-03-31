@@ -80,7 +80,7 @@ I'm a full stack developer from The United States focued on blockchain technolog
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>&nbsp;&nbsp;
 <a href="https://supabase.io/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>&nbsp;&nbsp;
 <a href="https://platform.arkhamintelligence.com/" target="_blank" rel="noreferrer" hspace="10">
-  <img src="assets/arkham-logo.svg" width="36" height="36" alt="Arkham" />
+  <img src="https://raw.githubusercontent.com/heyjonbray/heyjonbray/main/assets/arkham-logo.svg" width="36" height="36" alt="Arkham" />
 </a>
 </div>
 
