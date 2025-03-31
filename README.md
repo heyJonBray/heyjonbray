@@ -84,7 +84,7 @@ I'm a full stack developer from The United States focued on blockchain technolog
   <img src="https://raw.githubusercontent.com/heyjonbray/heyjonbray/main/assets/arkham-logo.svg" width="36" height="36" alt="Arkham" />
 </a>
 </div>
-
+<br>
 <p align="center" style="padding-top: 25px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjonbray&include_orgs=true&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
