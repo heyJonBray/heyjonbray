@@ -82,7 +82,6 @@ I'm a full stack developer from The United States focued on blockchain technolog
 <a href="https://platform.arkhamintelligence.com/" target="_blank" rel="noreferrer" hspace="10">
   <img src="assets/arkham-logo.svg" width="36" height="36" alt="Arkham" />
 </a>
-</a>
 </div>
 
 <p align="center" style="padding-top: 25px;">
