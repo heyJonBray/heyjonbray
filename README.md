@@ -26,7 +26,7 @@ I'm a full stack developer from The United States focued on blockchain technolog
 
 ---
 
-### 🛠 &nbsp;Proficiencies
+### 🛠 &nbsp;Skills
 
 <div align="center">
 <!-- Programming Languages Row -->
