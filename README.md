@@ -28,7 +28,6 @@ I'm a full stack developer from The United States focued on blockchain technolog
 
 ### 🛠 &nbsp;Skills
 
-<div align="center">
 <!-- Programming Languages Row -->
 <div align="center" style="padding-bottom: 20px;">
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" /></a>&nbsp;&nbsp;
@@ -79,12 +78,15 @@ I'm a full stack developer from The United States focued on blockchain technolog
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;&nbsp;
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>&nbsp;&nbsp;
-<a href="https://supabase.io/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>&nbsp;&nbsp;
+<a href="https://platform.arkhamintelligence.com/" target="_blank" rel="noreferrer" hspace="10">
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjcwIDAgMTcwMCAxODAwIj4KICA8IS0tIFRvcCBob3Jpem9udGFsIHBpZWNlIC0tPgogIDxwYXRoIGQ9Ik00MDkuNTQ0LDEwMC45NzZsLTgxLjU2NywyNTEuOTE2bDkzMC41MiwtMC42ODVsLTgxLjczOCwtMjUxLjkxN2wtNzY3LjIxNSwwLjY4NloiIHN0eWxlPSJmaWxsLXJ1bGU6bm9uemVybzsiLz4KICAKICA8IS0tIFJpZ2h0IHBpZWNlIC0tPgogIDxwYXRoIGQ9Ik0xNTA3LjUsOTkuOTQ4bC0yNjQuNzcxLDAuMzQybDI4OC4wODEsODg0Ljk0N2wyMTQuMDM4LC0xNTUuNzgxbC0yMzcuMTc3LC03MjkuNTA4bC0wLjE3MSwtMFoiIHN0eWxlPSJmaWxsLXJ1bGU6bm9uemVybzsiLz4KICAKICA8IS0tIEJvdHRvbSByaWdodCBwaWVjZSAtLT4KICA8cGF0aCBkPSJNMTAxMS45NiwxNDQwLjMxbDIxNC4zODEsMTU1LjQzOGw2MjAuMTkyLC00NTEuMDQzbC04Mi4wOTgsLTI1MS44OTlsLTc1Mi4zMDQsNTQ3LjMzM2wtMC4xNzEsMC4xNzFaIiBzdHlsZT0iZmlsbC1ydWxlOm5vbnplcm87Ii8+CiAgCiAgPCEtLSBCb3R0b20gbGVmdCBwaWVjZSAtLT4KICA8cGF0aCBkPSJNMzM4LjE1OCwxMzQwLjIzbC0wLDAuMzQzbDYyMC42OSw0NTAuMTg2bDIxNC4wMzgsLTE1NS43ODFsLTc1Mi44MTksLTU0Ni42NDdsLTgxLjkwOSwyNTEuODk5WiIgc3R5bGU9ImZpbGwtcnVsZTpub256ZXJvOyIvPgogIAogIDwhLS0gTGVmdCBwaWVjZSAtLT4KICA8cGF0aCBkPSJNMzA3LjU4MSw0MTUuNjA2bC0yMzYuNjQ1LDcyOS41MDhsMjE0LjM4MSwxNTUuNDM4bDI4Ny4wMzUsLTg4NS4xMThsLTI2NC43NzEsMC4zNDNsLTAsLTAuMTcxWiIgc3R5bGU9ImZpbGwtcnVsZTpub256ZXJvOyIvPgogIAogIDwhLS0gSW5uZXIgdG9wIHBpZWNlIC0tPgogIDxwYXRoIGQ9Ik02MzguNjY1LDQxNS4yNjNsLTgxLjkxLDI1MS45MTZsNDczLjEzNiwtMC4zNDJsLTgxLjkxLC0yNTEuNTc0bC0zMDkuNDg4LC0wbDAuMTcyLC0wWiIgc3R5bGU9ImZpbGwtcnVsZTpub256ZXJvOyIvPgogIAogIDwhLS0gSW5uZXIgcmlnaHQgcGllY2UgLS0+CiAgPHBhdGggZD0iTTEwMTMuOTcsNDE0LjkybDE0Ni42OCw0NDkuODQzbDIxNC4wMzgsLTE1NS43OGwtOTUuNjIxLC0yOTQuMDYzbC0yNjUuMDk3LDBaIiBzdHlsZT0iZmlsbC1ydWxlOm5vbnplcm87Ii8+CiAgCiAgPCEtLSBJbm5lciBib3R0b20gcmlnaHQgcGllY2UgLS0+CiAgPHBhdGggZD0iTTEwMTIuNiwxMDUwLjUybDIxNC4zODEsMTU1LjI1bDI1MC4xODUsLTE4MS42NDRsMCwtMC4zNDNsLTgyLjA4MSwtMjUxLjg5OWwtMzgyLjQ4NSwyNzguNjM2WiIgc3R5bGU9ImZpbGwtcnVsZTpub256ZXJvOyIvPgogIAogIDwhLS0gSW5uZXIgYm90dG9tIGxlZnQgcGllY2UgLS0+CiAgPHBhdGggZD0iTTcwNy45NiwxMjE5LjU5bDI1MC41NDUsMTgyLjAwNWwyMTQuMDM4LC0xNTUuNzgxbC0zODMuMTcxLC0yNzcuNjA5bC04MS40MTIsMjUxLjM4NVoiIHN0eWxlPSJmaWxsLXJ1bGU6bm9uemVybzsiLz4KICAKICA8IS0tIElubmVyIGxlZnQgcGllY2UgLS0+CiAgPHBhdGggZD0iTTUzNi4zNTksNzMwLjA2NGwtOTUuNDUsMjk0LjQwNWwyMTQuMzgxLDE1NS40MzhsMTQ1Ljg0LC00NDkuODQzbC0yNjQuNzcxLDBaIiBzdHlsZT0iZmlsbC1ydWxlOm5vbnplcm87Ii8+Cjwvc3ZnPg==" width="36" height="36" alt="Arkham" />
+</a>
 </div>
-<p align="center">
+
+<p align="center" style="padding-top: 25px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjonbray&include_orgs=true&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
-</div>
 
 ---
 
