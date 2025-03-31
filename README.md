@@ -96,6 +96,8 @@ I'm a full stack developer from The United States focued on blockchain technolog
 
 I publish exclusively on Paragraph, a decentralized publishing platform built on Farcaster. You can stay up to date with my latest articles by subscribing to my newsletter.
 
+- [Pin.sol Whitepaper v1](https://paragraph.xyz/@jonbray/pinsol-whitepaper-v1)
+- [An Argument For Monetizing Social Graphs](https://paragraph.xyz/@jonbray/monetizing-social-graphs)
 - [On Ethereum and DeFi](https://paragraph.xyz/@jonbray/eth-defi)
 - [On the Tokenomics of Xeon Protocol](https://paragraph.xyz/@jonbray/xeon-tokenomics)
 
