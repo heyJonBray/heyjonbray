@@ -28,44 +28,80 @@ I'm a full stack developer from The United States focued on blockchain technolog
 
 ### 🛠 &nbsp;Proficiencies
 
-<table style="border: none;">
-<tr>
-<td width="14.28%"><a href="https://soliditylang.org/"><img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" alt="Solidity"></a></td>
-<td width="14.28%"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"></a></td>
-<td width="14.28%"><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"></a></td>
-<td width="14.28%"><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust"></a></td>
-<td width="14.28%"><a href="https://www.java.com/"><img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white" alt="Java"></a></td>
-<td width="14.28%"><a href="https://docs.sui.io/move"><img src="https://img.shields.io/badge/-Move-4DA2FF?logo=sui&logoColor=white" alt="Move"></a></td>
-<td width="14.28%"><a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET"></a></td>
-</tr>
-<tr>
-<td width="14.28%"><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"></a></td>
-<td width="14.28%"><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"></a></td>
-<td width="14.28%"><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"></a></td>
-<td width="14.28%"><a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a></td>
-<td width="14.28%"><a href="https://thirdweb.com/"><img src="https://img.shields.io/badge/-Thirdweb-000000?logo=thirdweb&logoColor=white" alt="Thirdweb"></a></td>
-<td width="14.28%"><a href="https://www.openzeppelin.com/"><img src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=white" alt="OpenZeppelin"></a></td>
-<td width="14.28%"><a href="https://web3js.org/"><img src="https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white" alt="Web3.js"></a></td>
-</tr>
-<tr>
-<td width="14.28%"><a href="https://ethereum.org/"><img src="https://img.shields.io/badge/-Ethereum-627EEA?logo=ethereum&logoColor=white" alt="Ethereum"></a></td>
-<td width="14.28%"><img src="https://img.shields.io/badge/-DeFi-FF007A?logo=ethereum&logoColor=white" alt="DeFi"></td>
-<td width="14.28%"><a href="https://chain.link/ccip"><img src="https://img.shields.io/badge/-CCIP-375BD2?logo=chainlink&logoColor=white" alt="Chainlink CCIP"></a></td>
-<td width="14.28%"><a href="https://dune.com/"><img src="https://img.shields.io/badge/-Dune-F4603E?logo=ethereum&logoColor=white" alt="Dune Analytics"></a></td>
-<td width="14.28%"><a href="https://thegraph.com/"><img src="https://img.shields.io/badge/-TheGraph-6F4CFF?logo=graphql&logoColor=white" alt="The Graph"></a></td>
-<td width="14.28%"><a href="https://solana.com/"><img src="https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white" alt="Solana"></a></td>
-<td width="14.28%"></td>
-</tr>
-<tr>
-<td width="14.28%"><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"></a></td>
-<td width="14.28%"><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-web-services&logoColor=white" alt="AWS"></a></td>
-<td width="14.28%"><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"></a></td>
-<td width="14.28%"><a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"></a></td>
-<td width="14.28%"><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"></a></td>
-<td width="14.28%"><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"></a></td>
-<td width="14.28%"><a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase"></a></td>
-</tr>
-</table>
+<div style="display: flex; 
+            flex-wrap: wrap; 
+            justify-content: center; 
+            max-width: 1200px; 
+            margin: 0 auto; 
+            gap: 25px;">
+<!-- Programming Languages Row -->
+<div style="display: flex; 
+            justify-content: center; 
+            flex-wrap: wrap; 
+            width: 100%; 
+            gap: 25px; 
+            margin-bottom: 20px;">
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://docs.sui.io/move" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/sui.svg" width="36" height="36" alt="Move" /></a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+</div>
+<!-- Web Development Row -->
+<div style="display: flex; 
+            justify-content: center; 
+            flex-wrap: wrap; 
+            width: 100%; 
+            gap: 25px; 
+            margin-bottom: 20px;">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
+<a href="https://thirdweb.com/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/thirdweb.svg" width="36" height="36" alt="Thirdweb" /></a>
+<a href="https://www.openzeppelin.com/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/openzeppelin.svg" width="36" height="36" alt="OpenZeppelin" /></a>
+<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
+<a href="https://web3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3.js" /></a>
+
+</div>
+<!-- Blockchain Row -->
+<div style="display: flex; 
+            justify-content: center; 
+            flex-wrap: wrap; 
+            width: 100%; 
+            gap: 25px; 
+            margin-bottom: 20px;">
+<a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a><a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" /></a>
+<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
+<a href="https://aave.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" alt="AAVE" /></a>
+<a href="https://chain.link/ccip" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink CCIP" /></a>
+<a href="https://dune.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/43092013?s=200&v=4" width="36" height="36" alt="Dune Analytics" /></a>
+<a href="https://thegraph.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" alt="The Graph" /></a>
+<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a><a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://www.arweave.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arweave-colored.svg" width="36" height="36" alt="Arweave" /></a>
+</div>
+<!-- DevOps & Databases Row -->
+<div style="display: flex; 
+            justify-content: center; 
+            flex-wrap: wrap; 
+            width: 100%; 
+            gap: 25px; 
+            margin-bottom: 20px;">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/kubernetes.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+</div>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjonbray&include_orgs=true&layout=compact&theme=dark" alt="Most Used Languages" />
