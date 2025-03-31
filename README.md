@@ -49,7 +49,7 @@ I'm a full stack developer from The United States focued on blockchain technolog
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
 <a href="https://thirdweb.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://github.com/thirdweb-dev/typescript-sdk/raw/main/logo.svg?raw=true" width="36" height="36" alt="Thirdweb" /></a>&nbsp;&nbsp;
-<a href="https://www.openzeppelin.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://images.seeklogo.com/logo-png/42/3/openzeppelin-logo-png_seeklogo-426729.png" width="36" height="36" alt="OpenZeppelin" /></a>&nbsp;&nbsp;
+<a href="https://www.openzeppelin.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://simpleicons.org/icons/openzeppelin.svg" width="36" height="36" alt="OpenZeppelin" /></a>&nbsp;&nbsp;
 <a href="https://ethers.io" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>&nbsp;&nbsp;
 <a href="https://web3js.org/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3.js" /></a>
 </div>
