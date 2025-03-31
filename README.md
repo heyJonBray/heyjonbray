@@ -44,12 +44,12 @@ I'm a full stack developer from The United States focued on blockchain technolog
 
 <!-- Web Development Row -->
 <div align="center" style="padding-top: 15px; padding-bottom: 15px;">
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>&nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="Next.js" /></a>&nbsp;&nbsp;
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
-<a href="https://thirdweb.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://simpleicons.org/icons/thirdweb.svg" width="36" height="36" alt="Thirdweb" /></a>&nbsp;&nbsp;
-<a href="https://www.openzeppelin.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://simpleicons.org/icons/openzeppelin.svg" width="36" height="36" alt="OpenZeppelin" /></a>&nbsp;&nbsp;
+<a href="https://thirdweb.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://github.com/thirdweb-dev/typescript-sdk/raw/main/logo.svg?raw=true" width="36" height="36" alt="Thirdweb" /></a>&nbsp;&nbsp;
+<a href="https://www.openzeppelin.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://images.seeklogo.com/logo-png/42/3/openzeppelin-logo-png_seeklogo-426729.png" width="36" height="36" alt="OpenZeppelin" /></a>&nbsp;&nbsp;
 <a href="https://ethers.io" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>&nbsp;&nbsp;
 <a href="https://web3js.org/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3.js" /></a>
 </div>
@@ -76,7 +76,7 @@ I'm a full stack developer from The United States focued on blockchain technolog
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;&nbsp;
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="36" height="36" alt="AWS" /></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>&nbsp;&nbsp;
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer" hspace="10"><img src="https://simpleicons.org/icons/kubernetes.svg" width="36" height="36" alt="Kubernetes" /></a>&nbsp;&nbsp;
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer" hspace="10"><img src="https://www.svgrepo.com/show/376331/kubernetes.svg" width="36" height="36" alt="Kubernetes" /></a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;&nbsp;
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" hspace="10"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>&nbsp;&nbsp;
