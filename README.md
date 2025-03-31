@@ -28,12 +28,7 @@ I'm a full stack developer from The United States focued on blockchain technolog
 
 ### 🛠 &nbsp;Proficiencies
 
-<div style="display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            max-width: 1200px;
-            margin: 0 auto;
-            gap: 25px;">
+<div align="center">
 <!-- Programming Languages Row -->
 <div style="display: flex;
             justify-content: center;
